@@ -14,7 +14,7 @@ A simple Flutter application to manage hotel rooms.
 - Provider (State Management)
 
 ## Screenshots
-<img width="1584" height="892" alt="image" src="https://github.com/user-attachments/assets/62b89061-72ee-4ce7-bcf2-2cae5cbee423" />
+<img width="1584" height="892" alt="image" src="https://github.com/user-attachments/assets/2ee6a841-f3f1-4263-a6fc-f95e8eb62089" />
 
 
 
